@@ -1,0 +1,3 @@
+module.exports=[66887,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(7178);a.n(d("[project]/antigravity/contracts/ui/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},84422,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(7178);a.n(d("[project]/antigravity/contracts/ui/node_modules/next/dist/client/components/builtin/global-error.js"))},49349,a=>{"use strict";a.i(66887);var b=a.i(84422);a.n(b)}];
+
+//# sourceMappingURL=d491b_next_dist_client_components_builtin_global-error_23ee94c6.js.map
